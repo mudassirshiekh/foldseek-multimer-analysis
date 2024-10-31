@@ -1,4 +1,5 @@
 # foldseek-multimer-analysis
+#By Mudassir Alam
 This repository contains the scripts needed for reproducing the results of [Rapid and Sensitive Protein Complex Alignment with Foldseek-Multimer](https://www.biorxiv.org/content/10.1101/2024.04.14.589414v1) by Kim et al. 2024.
 ### Obtaining Datasets
 ###### Download
